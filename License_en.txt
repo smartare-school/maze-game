@@ -1,0 +1,9 @@
+Copyright (C) 2024 Smartere School
+
+This software is provided by Smartere School. This software prohibits commercial use, modification, and copying.
+
+You may only use this software under the following conditions:
+
+Modification or creation of derivative works based on this software is prohibited.
+The use, copying, distribution, and resale of this software are prohibited.
+Please refrain from using this software if you do not agree with these terms.
